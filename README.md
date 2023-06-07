@@ -6,4 +6,4 @@ I have used free api from open weatherapi.org.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/HH-Tushar/class_note/blob/main/snaps/Class%20Note%20%20App.jpg?raw=true)
+![App Screenshot](https://github.com/HH-Tushar/weather-update/blob/main/Weather%20App.jpg?raw=true)
